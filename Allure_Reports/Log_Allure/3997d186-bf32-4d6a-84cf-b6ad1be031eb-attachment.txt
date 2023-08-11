@@ -1,0 +1,5 @@
+[32mINFO    [0m Test_CredKart_Login:test_login.py:21 Started test case test_pageTitle_001 
+[32mINFO    [0m Test_CredKart_Login:test_login.py:22 Opening the browser 
+[32mINFO    [0m Test_CredKart_Login:test_login.py:23 Checking the page-title : CredKart
+[32mINFO    [0m Test_CredKart_Login:test_login.py:26 Taking the Screenshot
+[32mINFO    [0m Test_CredKart_Login:test_login.py:28 Testcase test_pageTitle_001 is PASSED

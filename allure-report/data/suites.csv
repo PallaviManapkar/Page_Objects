@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Sat Aug 05 19:54:22 PDT 2023","Sat Aug 05 19:54:22 PDT 2023","0","","test_login","Test_CredKart_Login","","","test_CredKart_Login_002",""
+"passed","Thu Aug 03 22:43:51 PDT 2023","Thu Aug 03 22:44:26 PDT 2023","35149","test_cases","test_checkout_page","Test_Credkart_Checkout","","","test_checkout",""
+"broken","Sat Aug 05 19:54:21 PDT 2023","Sat Aug 05 19:54:21 PDT 2023","0","","test_login","Test_CredKart_Login","","","test_pageTitle_001",""
+"passed","Wed Aug 09 20:26:09 PDT 2023","Wed Aug 09 20:26:09 PDT 2023","425","test_cases","test_login","Test_CredKart_Login","","","test_pageTitle_001",""
+"passed","Wed Aug 09 20:26:15 PDT 2023","Wed Aug 09 20:26:18 PDT 2023","2975","test_cases","test_login","Test_CredKart_Login","","","test_CredKart_Login_002",""

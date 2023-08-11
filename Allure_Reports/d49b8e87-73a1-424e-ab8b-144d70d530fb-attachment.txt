@@ -1,0 +1,8 @@
+INFO     Test_CredKart_Login:test_login.py:40 Opening the browser
+INFO     Test_CredKart_Login:test_login.py:42 Going to Launch the Url
+INFO     Test_CredKart_Login:test_login.py:43 Entering an Email : Credencetest@test.com
+INFO     Test_CredKart_Login:test_login.py:45 Entering the password : Credence@123
+INFO     Test_CredKart_Login:test_login.py:47 Click on the LogIn Button
+INFO     Test_CredKart_Login:test_login.py:49 Checking the Login Status : True
+INFO     Test_CredKart_Login:test_login.py:54 Taken Screenshot
+INFO     Test_CredKart_Login:test_login.py:55 Testcase test_CredKart_Login_002 is PASSED
